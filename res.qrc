@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>错-.png</file>
+        <file>错- (1).png</file>
+        <file>服务器cpu监控.png</file>
+        <file>服务器内存监控.png</file>
+        <file>服务器内存监控 (1).png</file>
+        <file>服务器状态监控.png</file>
+        <file>信息.png</file>
+    </qresource>
+</RCC>
